@@ -1,0 +1,22 @@
+<!--Controles
+    Contenedor contlogin;
+    Etiqueta et;
+    Boton btn;
+    Texto txt;
+Controles-->
+
+<!--propiedades 
+    contlogin.setAncho(190); 
+    contlogin.setAlto(150); 
+    contlogin.setColorFondo(47,79,79);
+    txt.setColorLetra(1,2,4);
+    txt.setTexto("Hola");
+    txt.setMarcada(False);
+propiedades-->
+
+<!--Colocacion 
+    contFondo.setPosicion(25,330); 
+    this.add(contFondo); 
+    contlogin.setPosicion(586,110); 
+    ContBody.add(contlogin);  
+Colocacion -->
